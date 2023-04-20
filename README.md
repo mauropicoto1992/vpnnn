@@ -1,7 +1,7 @@
 {
-  "Version": "4.1.0",
+  "Version": "5.1.0",
   "ReleaseNotes": "nueva actualización",
-  "UrlUpdate": "https://github.com/mauropicoto1992/vpnnn",
+  "UrlUpdate": "https://github.com/mauropicoto1992/vpnnn/blob/main/README.md",
   "Sms": "",
   "LogoLink": "https://i.imgur.com/4n7bZz1.jpeg",
   "BackgroundLink": "https://i.imgur.com/7YcOUJP.jpeg",
