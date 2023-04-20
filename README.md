@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.0",
+  "Version": "4.1.0",
   "ReleaseNotes": "nueva actualización",
   "UrlUpdate": "https://github.com/mauropicoto1992/vpnnn",
   "Sms": "",
