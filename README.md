@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.0",
+  "Version": "2.0.0",
   "ReleaseNotes": "nueva actualización",
   "UrlUpdate": "https://github.com/mauropicoto1992/vpnnn",
   "Sms": "",
-  "LogoLink": "https:\/\/i.imgur.com\/Knw9k6I.png",
-  "BackgroundLink": "https:\/\/i.imgur.com\/B2WcMBk.jpg",
+  "LogoLink": "https://i.imgur.com/4n7bZz1.jpeg",
+  "BackgroundLink": "https://i.imgur.com/7YcOUJP.jpeg",
   "CheckUser": "true",
   "Udp": [
     {
